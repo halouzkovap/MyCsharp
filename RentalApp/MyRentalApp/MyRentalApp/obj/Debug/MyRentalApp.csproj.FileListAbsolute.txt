@@ -1,0 +1,6 @@
+C:\Users\42073\source\repos\RentalApp\MyRentalApp\MyRentalApp\bin\Debug\MyRentalApp.exe.config
+C:\Users\42073\source\repos\RentalApp\MyRentalApp\MyRentalApp\bin\Debug\MyRentalApp.exe
+C:\Users\42073\source\repos\RentalApp\MyRentalApp\MyRentalApp\bin\Debug\MyRentalApp.pdb
+C:\Users\42073\source\repos\RentalApp\MyRentalApp\MyRentalApp\obj\Debug\MyRentalApp.csprojAssemblyReference.cache
+C:\Users\42073\source\repos\RentalApp\MyRentalApp\MyRentalApp\obj\Debug\MyRentalApp.exe
+C:\Users\42073\source\repos\RentalApp\MyRentalApp\MyRentalApp\obj\Debug\MyRentalApp.pdb
