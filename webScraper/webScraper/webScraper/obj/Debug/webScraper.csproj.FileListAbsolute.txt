@@ -1,0 +1,8 @@
+C:\Users\42073\MyCsharp\MyCsharp\webScraper\webScraper\webScraper\bin\Debug\webScraper.exe.config
+C:\Users\42073\MyCsharp\MyCsharp\webScraper\webScraper\webScraper\bin\Debug\webScraper.exe
+C:\Users\42073\MyCsharp\MyCsharp\webScraper\webScraper\webScraper\bin\Debug\webScraper.pdb
+C:\Users\42073\MyCsharp\MyCsharp\webScraper\webScraper\webScraper\obj\Debug\webScraper.csprojAssemblyReference.cache
+C:\Users\42073\MyCsharp\MyCsharp\webScraper\webScraper\webScraper\obj\Debug\webScraper.Properties.Resources.resources
+C:\Users\42073\MyCsharp\MyCsharp\webScraper\webScraper\webScraper\obj\Debug\webScraper.csproj.GenerateResource.cache
+C:\Users\42073\MyCsharp\MyCsharp\webScraper\webScraper\webScraper\obj\Debug\webScraper.exe
+C:\Users\42073\MyCsharp\MyCsharp\webScraper\webScraper\webScraper\obj\Debug\webScraper.pdb
